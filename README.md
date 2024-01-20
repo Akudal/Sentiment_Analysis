@@ -6,13 +6,13 @@
 
 ## Key Features
 
-**Sentiment Analysis:** The project employs natural language processing techniques to perform sentiment analysis on customer reviews. By classifying reviews as positive, negative, or neutral, Amazon can gain a deeper understanding of customer sentiments towards specific products.
+**1. Sentiment Analysis:** The project employs natural language processing techniques to perform sentiment analysis on customer reviews. By classifying reviews as positive, negative, or neutral, Amazon can gain a deeper understanding of customer sentiments towards specific products.
 
-**Data Visualization:** The project includes visualizations to represent sentiment trends over time, popular products, and common keywords associated with positive and negative sentiments. These visualizations offer a comprehensive overview for decision-makers at Amazon.
+**2. Data Visualization:** The project includes visualizations to represent sentiment trends over time, popular products, and common keywords associated with positive and negative sentiments. These visualizations offer a comprehensive overview for decision-makers at Amazon.
 
-**Customer Experience Improvement:** The sentiment analysis results can be used by Amazon to identify areas where customer experience can be improved. Whether it's addressing product issues, improving shipping processes, or enhancing customer service, the insights gained from this analysis can guide Amazon's efforts to provide a better overall experience.
+**3. Customer Experience Improvement:** The sentiment analysis results can be used by Amazon to identify areas where customer experience can be improved. Whether it's addressing product issues, improving shipping processes, or enhancing customer service, the insights gained from this analysis can guide Amazon's efforts to provide a better overall experience.
 
-**Product Insights:** Understanding customer sentiments towards different products helps Amazon in refining existing products and improving the listing of new ones. By identifying features that customers appreciate or dislike, Amazon can align its product listing strategies with customer preferences.
+**4. Product Insights:** Understanding customer sentiments towards different products helps Amazon in refining existing products and improving the listing of new ones. By identifying features that customers appreciate or dislike, Amazon can align its product listing strategies with customer preferences.
 
 ## Benefits for Amazon
 
